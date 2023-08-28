@@ -1,1 +1,3 @@
 Hello World!
+
+Git commit message testing
